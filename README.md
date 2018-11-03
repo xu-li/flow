@@ -10,7 +10,7 @@ Often, we are faced with complex business rules. It can be easily verified if th
 
 ## Features
 
-- [Transition Events](https://github.com/xu-li/flow/examples/01-events/index.php)
+- [Transition Events](https://github.com/xu-li/flow/blob/master/examples/01-events/index.php)
 - Visualization - Using [symfony/workflow](https://symfony.com/doc/current/workflow/dumping-workflows.html)
 
 ## Core classes/interfaces
@@ -30,8 +30,8 @@ The main Flow class. See [Examples](#examples).
 
 ## Examples
 
-1. [Simple](https://github.com/xu-li/flow/examples/00-simple/index.php)
-2. [Listen to transition events](https://github.com/xu-li/flow/examples/01-events/index.php)
+1. [Simple](https://github.com/xu-li/flow/blob/master/examples/00-simple/index.php)
+2. [Listen to transition events](https://github.com/xu-li/flow/blob/master/examples/01-events/index.php)
 
 ## License
 [MIT](https://opensource.org/licenses/MIT)
