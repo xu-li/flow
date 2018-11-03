@@ -4,6 +4,10 @@ composer.phar
 /vendor/
 composer.lock
 
+## phive
+
+/tools/
+
 ## VIM
 
 # swap
