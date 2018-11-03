@@ -15,7 +15,7 @@ class ProcessNotFoundException extends \RuntimeException
      */
     public $process;
 
-    public function __construct(Flow $flow, string $process, $message = "")
+    public function __construct(Flow $flow, $process, $message = "")
     {
         parent::__construct($message ?: "There is no process in the registry for {$process}.");
 
